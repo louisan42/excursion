@@ -2,6 +2,7 @@ body{
     background-color: black;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
 
 header > h1{
@@ -9,10 +10,18 @@ header > h1{
     
     font-weight: normal;
     font-size: 50px;
-    color: white;
+    
 }
 
 p > a{
     font-size: 16px;
     color: aquamarine;
+}
+#description h2{
+    font-weight: 300;
+    font-size: 42px;
+}
+.grayFormat{
+    font-size: 21px;
+    color: gray;
 }
